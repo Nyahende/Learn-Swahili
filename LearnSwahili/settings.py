@@ -46,6 +46,7 @@ INSTALLED_APPS = [
      'conjuctions',
      'greetings',
      'sentences',
+     'number',
 ]
 
 MIDDLEWARE = [

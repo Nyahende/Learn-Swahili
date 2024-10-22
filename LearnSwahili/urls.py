@@ -12,4 +12,5 @@ urlpatterns = [
     path('pronouns/', include('pronouns.urls')),  
     path('sentences/', include('sentences.urls')),  
     path('verbs/', include('verbs.urls')),  
+    path('numbers/', include('numbers.urls')),  
 ]
